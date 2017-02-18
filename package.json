@@ -1,5 +1,5 @@
 {
-  "name": "eventquarry-server",
+  "name": "eventquarryserver",
   "version": "1.0.0",
   "main": "server/server.js",
   "scripts": {
@@ -27,5 +27,5 @@
     "url": ""
   },
   "license": "UNLICENSED",
-  "description": "eventquarry-server"
+  "description": "eventquarryserver"
 }
